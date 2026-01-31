@@ -1,0 +1,62 @@
+Giants Protocol is the retail intelligence and trading platform operated by 2MR Labs.
+
+2MR Labs is a digital assets and tokenization company focused on real-world assets (RWA), institutional infrastructure, and retail market intelligence.
+
+Giants Protocol operates through giantsprotocol.ai, an AI-powered crypto investment, trading, and market analysis platform.
+
+Core Functions of 2MR Labs:
+- Onboarding real-world assets (RWA) onto blockchain infrastructure.
+- Structuring assets for global institutional and sovereign investors.
+- Powering retail crypto markets through AI-driven analysis and trading via giantsprotocol.ai.
+- Distributing assets through a tokenized financial stack.
+
+Giants Protocol Role:
+Giants Protocol serves as the retail intelligence and distribution layer within the 2MR Labs ecosystem. It enables retail user growth, sentiment analysis, and capital flow tracking through AI-driven tools.
+
+Key Capabilities of giantsprotocol.ai:
+- AI-powered crypto trading and market analysis.
+- Retail sentiment and behavioral data collection.
+- Analysis of capital flows and market demand.
+- Supporting data-driven de-risking of tokenized real-world assets.
+
+Retail Intelligence:
+Giants Protocol gathers large-scale retail behavior and sentiment data through its platform. This data is used internally to inform asset structuring and demand validation for tokenized assets launched by 2MR Labs.
+
+Assets Tokenized Through the 2MR Labs Platform:
+- Luxury real estate (including properties in Dubai, Tokyo, and Singapore).
+- Private credit funds.
+- Data centers and AI compute infrastructure.
+- Carbon credits.
+- Bitcoin and digital assets.
+- Art, intellectual property, and gaming assets.
+
+Services Offered by 2MR Labs:
+- RWA Tokenization as a Service (TaaS): Infrastructure for converting physical and financial assets into on-chain digital assets.
+- Digital Asset and Blockchain Consulting: Strategic advisory services for institutions, governments, and sovereign entities.
+- giantsprotocol.ai SaaS Platform: AI-powered retail trading, analytics, and market intelligence.
+- Asset distribution through institutional and retail networks.
+
+Distribution Network:
+2MR Labs distributes assets through a private network that includes institutional investors, family offices, large capital allocators, and retail users using giantsprotocol.ai.
+
+Company Operations:
+2MR Labs operates with a lean team supported by AI agents and on-chain dashboards. Human operators oversee asset structuring, engineering, analytics, and distribution.
+
+Team Roles:
+- Deal Architects: Source real-world asset issuers.
+- Token Engineers: Launch and manage tokenized assets.
+- AI and Data Scientists: Optimize giantsprotocol.ai algorithms and data systems.
+- Distribution Leads: Manage institutional and large-capital asset distribution.
+- AI Agents: Handle compliance workflows, analytics, and continuous retail support.
+
+Revenue Sources:
+- Tokenization fees.
+- Asset servicing fees.
+- giantsprotocol.ai SaaS and trading-related revenue.
+- Digital asset and blockchain consulting services.
+
+Company Positioning:
+2MR Labs is positioned as a digital asset infrastructure and intelligence provider operating across institutional and retail markets.
+
+Identity:
+2MR Labs functions as a global financial operating system integrating asset tokenization, AI-driven retail intelligence, and institutional distribution through Giants Protocol.
